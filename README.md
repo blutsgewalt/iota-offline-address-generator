@@ -1,5 +1,5 @@
 # iota-offline-address-generator
-Generating an offline seed and reciving address to cold store IOTAs
+Generating an offline seed and recieving address to cold store IOTAs
 
 This offline Tool uses the iota.lib.js from the official repositiory https://github.com/iotaledger/iota.lib.js
 
